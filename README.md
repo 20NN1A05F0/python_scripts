@@ -1,4 +1,4 @@
-TASK - 1
+#TASK - 1
 Q1: Import and Use os Module
 Task: Write a script to print the current working directory using the os module.
 
@@ -22,7 +22,7 @@ Task: Write a Python script that does the following:
 
 
 
-TASK - 2
+##TASK - 2
  Build a Python script that:
 1. Checks if a folder named data_input exists in the current directory. If not, create it and inform the user to add .txt files to it.
 
