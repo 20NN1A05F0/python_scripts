@@ -20,6 +20,8 @@ Task: Write a Python script that does the following:
 
   For each .txt file found: A) Print the filename. B) Move it into the reports directory.
 
+
+
 TASK - 2
  Build a Python script that:
 1. Checks if a folder named data_input exists in the current directory. If not, create it and inform the user to add .txt files to it.
